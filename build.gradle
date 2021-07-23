@@ -13,7 +13,7 @@ dependencies {
     testImplementation (
             "com.codeborne:selenide:$selenideVersion",
             "org.assertj:assertj-core:3.19.0",
-            "org.apache.poi:poi-ooxml:3.11", // WORD
+            "org.apache.poi:poi-ooxml:5.0.0", // WORD
             "org.apache.pdfbox:pdfbox:2.0.4",  // PDF
             "org.apache.poi:poi:3.17", // xls
             "org.bouncycastle:bcprov-jdk15on:1.56",
